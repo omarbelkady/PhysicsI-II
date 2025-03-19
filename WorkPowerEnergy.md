@@ -4,9 +4,10 @@
 - **Work**: $ W = Fd\cos\theta $, where $ \theta $ is the angle between force and displacement.
 - **Power**: $ P = \frac{W}{t} $, measures the rate of doing work.
 - **Work-Energy Theorem**: Net work equals change in kinetic energy:
-  $$
-  W_{\text{net}} = \Delta KE = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2
-  $$
+
+$$
+W_{\text{net}} = \Delta KE = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2
+$$
 
 ---
 
@@ -16,6 +17,7 @@
 - A force of $ 10 \, \text{N} $ pushes a box $ 5 \, \text{m} $. What is the work done?
 
 **Solution:**
+
 $$
 W = Fd\cos\theta = (10)(5)\cos(0^\circ) = 50 \, \text{J}
 $$
@@ -31,6 +33,7 @@ $$
 - A sled is pulled with a force of $ 50 \, \text{N} $ at $ 30^\circ $ to the horizontal for $ 10 \, \text{m} $. What is the work done?
 
 **Solution:**
+
 $$
 W = Fd\cos\theta = (50)(10)\cos(30^\circ) = 433 \, \text{J}
 $$
@@ -47,14 +50,19 @@ $$
 
 **Solution:**
 Vertical work:
+
 $$
 W_{\text{vertical}} = Fd = (200)(5) = 1000 \, \text{J}
 $$
+
 Horizontal work:
+
 $$
 W_{\text{horizontal}} = Fd\cos(90^\circ) = 0 \, \text{J}
 $$
+
 Total work:
+
 $$
 W_{\text{total}} = W_{\text{vertical}} + W_{\text{horizontal}} = 1000 \, \text{J}
 $$
@@ -70,6 +78,7 @@ $$
 - A motor does $ 500 \, \text{J} $ of work in $ 10 \, \text{s} $. What is its power output?
 
 **Solution:**
+
 $$
 P = \frac{W}{t} = \frac{500}{10} = 50 \, \text{W}
 $$
