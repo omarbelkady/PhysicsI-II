@@ -12,6 +12,7 @@
 A car travels 200 km in 4 hours. What is its average speed?
 
 **Solution:**
+
 $$
 v = \frac{\Delta x}{\Delta t} = \frac{200 \, \text{km}}{4 \, \text{h}} = 50 \, \text{km/h}
 $$
@@ -50,6 +51,7 @@ Convert 50 miles per hour (mph) to meters per second (m/s).
 
 **Solution:**
 1 mile = 1609.34 meters, 1 hour = 3600 seconds.
+
 $$
 50 \, \text{mph} = 50 \times \frac{1609.34}{3600} = 22.35 \, \text{m/s}
 $$
