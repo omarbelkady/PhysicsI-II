@@ -1,7 +1,10 @@
 # Capacitance
 
 ## Definition
-- $ C = \frac{Q}{V} $
+
+$$
+C = \frac{Q}{V}
+$$
 
 ### Notes:
 - Capacitance measures a capacitor's ability to store charge per unit voltage.
@@ -11,5 +14,7 @@
 A capacitor stores $ 0.01 \, \text{C} $ of charge at a potential difference of $ 5 \, \text{V} $. What is its capacitance?
 
 **Solution:**
+
 $$
 C = \frac{Q}{V} = \frac{0.01}{5} = 0.002 \, \text{F} = 2 \, \text{mF}
+$$
