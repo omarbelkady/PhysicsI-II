@@ -1,7 +1,10 @@
 # Electric Potential
 
 ## Definition
-- $ V = \frac{U}{q} $
+
+$$
+V = \frac{U}{q}
+$$
 
 ### Notes:
 - Potential is a scalar quantity.
@@ -11,6 +14,7 @@
 What is the potential at a distance of $ 0.2 \, \text{m} $ from a $ +5 \, \mu\text{C} $ charge?
 
 **Solution:**
+
 $$
 V = k\frac{q}{r} = 9 \times 10^9 \times \frac{5 \times 10^{-6}}{0.2} = 2.25 \times 10^5 \, \text{V}
 $$
@@ -18,7 +22,10 @@ $$
 ---
 
 ## Potential Difference
-- $ V = Ed $
+
+$$
+V = Ed
+$$
 
 ### Notes:
 - Potential difference is work done per unit charge to move between two points.
@@ -27,6 +34,7 @@ $$
 An electric field of $ 200 \, \text{N/C} $ exists between two plates separated by $ 0.01 \, \text{m} $. What is the potential difference?
 
 **Solution:**
+
 $$
 V = Ed = (200)(0.01) = 2 \, \text{V}
 $$
